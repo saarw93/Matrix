@@ -1,5 +1,3 @@
-Name: Saar Weitzman
-ID: 204175137
 
 This program makes matrices. It does that by the class Matrix the program is build on. Each matrix being build by the number of rows * number of columns
 the user put as an input, and also has a type the user input. Each matrix the user makes is initialized to be zeroes matrix at the start.The matrix type
